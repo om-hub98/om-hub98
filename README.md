@@ -1,9 +1,11 @@
 - 👋  Hi friends, I’m Omraj Pradhan
-- 👀 I’m interested in Coding, Web Development,Tech & Business
-- 🌱 I’m currently working as a Full Stack Web Developer.
--     My Tech stack are  BackEnd  : Java,Spring Boot
--                        FrontEnd : HTML,CSS,JS,React JS
--                        Database : MySql,PostgreSql, Hibernate 
+- 👀 I’m interested in Coding, Web Development, AI, Tech & Business
+- 🌱 I’m currently working as a Java Full Stack Developer.
+-     My Tech stack are  BackEnd  : Java,Spring Boot, Hibernate
+-                        FrontEnd : HTML, CSS, JS, React JS, Angular JS
+-                        Database : MySql, PostgreSql, Firebase
+-                        Tools    : Maven, IntelliJ, Eclipse, Postman, VSCode
+-                        Cloud    : Google Cloud Platform
   
 - 📫 How to reach me .. Connect me through ==> https://www.linkedin.com/in/omraj-pradhan-4234541b4/
 
