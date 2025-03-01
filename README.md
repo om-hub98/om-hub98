@@ -1,6 +1,6 @@
 - 👋  Hi friends, I’m Omraj Pradhan
-- 👀 I’m interested in Coding, Web Development, AI, Tech & Business
-- 🌱 I’m currently working as a Java Full Stack Developer.
+- 👀 I’m interested in Coding, Software Developmemnt, Web Development, AI, Tech & Business
+- 🌱 I’m currently working as Associate Software Engineer.
 -     My Tech stack are :-
                          BackEnd  : Java, Spring Boot, Hibernate, Docker, Junit, Mockito,
 -                        FrontEnd : HTML, CSS, JS, React JS, Angular JS
