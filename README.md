@@ -5,7 +5,8 @@
                          BackEnd  : Java, Spring Boot, Hibernate, Docker, Junit, Mockito,
 -                        FrontEnd : HTML, CSS, JS, React JS, Angular JS
 -                        Database : MySql, PostgreSql, Firebase
--                        Tools    : Maven, IntelliJ, Eclipse, Postman, VSCode, Git, Github, Tortorise SVN, Apache Tomcat, JBoss
+-                        Tools    : Maven, IntelliJ, Eclipse, Postman, VSCode, Git, Github,
+-                                    Tortorise SVN, Apache Tomcat, JBoss
 -                        Cloud    : Google Cloud Platform
   
 - 📫 How to reach me .. Connect me through ==> https://www.linkedin.com/in/omraj-pradhan-4234541b4/
