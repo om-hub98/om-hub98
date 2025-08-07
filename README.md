@@ -6,8 +6,9 @@
 -                        FrontEnd : HTML, CSS, JS, React JS, Angular JS
 -                        Database : MySql, PostgreSql, Firebase
 -                        VCs      : Git/Github, Tortorise SVN
--                        Tools    : Maven, IntelliJ, Eclipse, Postman, VSCode, Apache Tomcat, JBoss
+-                        Tools    : Maven, IntelliJ, Eclipse, Postman, VSCode, Apache Tomcat, JBoss, n8n, Make, Zapier
 -                        Cloud    : Google Cloud Platform
+-                        Others   : Gen AI, AI Agents, DSA
   
 - 📫 How to reach me .. Connect me through ==> https://www.linkedin.com/in/omraj-pradhan-4234541b4/
 
