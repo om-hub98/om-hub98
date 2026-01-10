@@ -2,12 +2,12 @@
 - 👀 I’m interested in Coding, Software Development, Web Development, AI, Tech & Business
 - 🌱 I’m currently working as Associate Software Engineer.
 -     My Tech stack are :-
--                        Programming Languages  : Java, JS, Python, SQL
--                        Frameworks & Libraries : Spring Boot, Hibernate, Mockito, React JS, Angular, LangChain, FastAPI, numPy, Pandas
--                        Database               : MySql, PostgreSql, Firebase
--                        Tools                  : Maven, IntelliJ, Eclipse, Postman, VSCode, Apache Tomcat, JBoss, n8n, Make, Zapier, Git, Github, Tortorise SVN
--                        Cloud                  : Google Cloud Platform
--                        Others                 : Gen AI, AI Agents, RAG, DSA
+-         Programming Languages  : Java, JS, Python, SQL
+-         Frameworks & Libraries : Spring Boot, Hibernate, Mockito, React JS, Angular, LangChain, FastAPI, numPy, Pandas
+-         Database               : MySql, PostgreSql, Firebase
+-         Tools                  : Maven, IntelliJ, Eclipse, Postman, VSCode, Apache Tomcat, JBoss, n8n, Make, Zapier, Git, Github, Tortorise SVN
+-         Cloud                  : Google Cloud Platform
+-         Others                 : DSA, Rest API, SOLID principle, Class Diagram, Design Patterns, AI Automation, Gen AI, AI Agents, RAG 
   
 - 📫 How to reach me .. Connect me through ==> https://www.linkedin.com/in/omraj-pradhan-4234541b4/
 
