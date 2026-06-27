@@ -1,17 +1,24 @@
-- 👋  Hi friends, I’m Omraj Pradhan
-- 👀 I’m interested in Coding, Software Development, Web Development, AI, Tech & Business
-- 🌱 I’m currently working as Associate Software Engineer.
--     My Tech stack are :-
--         Programming Languages  : Java, JS, Python, SQL
--         Frameworks & Libraries : Spring Boot, Hibernate, Mockito, React JS, Angular, LangChain, FastAPI, numPy, Pandas
--         Database               : MySql, PostgreSql, Firebase
--         Tools                  : Maven, IntelliJ, Eclipse, Postman, VSCode, Apache Tomcat, JBoss, n8n, Make, Zapier, Git, Github, Tortorise SVN
--         Cloud                  : Google Cloud Platform
--         Others                 : DSA, Rest API, SOLID principle, Class Diagram, Design Patterns, AI Automation, Gen AI, AI Agents, RAG 
-  
-- 📫 How to reach me .. Connect me through ==> https://www.linkedin.com/in/omraj-pradhan-4234541b4/
+### Hi, I'm Omraj 👋
 
-<!---
-om-hub98/om-hub98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GenAI Engineer building agentic AI systems, RAG pipelines, and multi-agent orchestration.
+
+- 🔭 Working on **Generative AI & Agentic Systems**
+- 🌱 Currently exploring AI-native system design, multi-agent architectures, MCP, and context engineering
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/omraj-pradhan-4234541b4/) · [LeetCode](https://leetcode.com/u/omraj_98/) · omrajpradhan98@gmail.com
+
+---
+
+**GenAI & Agentic AI**
+`LangChain` `LangGraph` `LlamaIndex` `MCP` `RAG` `Prompt Engineering` `Agent Memory`
+
+**Data & Vector Search**
+`PostgreSQL` `MongoDB` `Redis` `PgVector` `FAISS`
+
+**Languages & Backend**
+`Python` `FastAPI` `Java` `Spring Boot`
+
+**Cloud & DevOps**
+`AWS` `Google Cloud Platform` `Docker` `Git`
+
+**Automation**
+`n8n` `Make` `Zapier`
